@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="_0_5sdp">0.5dp</dimen>
+
+    <dimen name="_1sdp">1.00dp</dimen>
+    <dimen name="_2sdp">2.00dp</dimen>
+    <dimen name="_5sdp">5.00dp</dimen>
+    <dimen name="_10sdp">10.00dp</dimen>
+    <dimen name="_15sdp">15.00dp</dimen>
+    <dimen name="_18sdp">18.00dp</dimen>
+    <dimen name="_20sdp">20.00dp</dimen>
+    <dimen name="_25sdp">25.00dp</dimen>
+    <dimen name="_30sdp">30.00dp</dimen>
+    <dimen name="_36sdp">36.00dp</dimen>
+    <dimen name="_40sdp">40.00dp</dimen>
+    <dimen name="_45sdp">45.00dp</dimen>
+    <dimen name="_50sdp">50.00dp</dimen>
+    <dimen name="_56sdp">56.00dp</dimen>
+    <dimen name="_60sdp">60.00dp</dimen>
+    <dimen name="_65sdp">65.00dp</dimen>
+    <dimen name="_80sdp">80.00dp</dimen>
+    <dimen name="_90sdp">90.00dp</dimen>
+    <dimen name="_100sdp">100.00dp</dimen>
+    <dimen name="_110sdp">110.00dp</dimen>
+    <dimen name="_130sdp">130.00dp</dimen>
+    <dimen name="_140sdp">140.00dp</dimen>
+    <dimen name="_14sdp">14.00dp</dimen>
+    <dimen name="_152sdp">152.00dp</dimen>
+    <dimen name="_180sdp">180.00dp</dimen>
+    <dimen name="_200sdp">200.00dp</dimen>
+    <dimen name="_250sdp">250.00dp</dimen>
+    <dimen name="_300sdp">300.00dp</dimen>
+    <dimen name="_400sdp">400.00dp</dimen>
+    <dimen name="_120sdp">120.00dp</dimen>
+
+    <dimen name="text_normal">14sp</dimen>
+    <dimen name="text_small">12sp</dimen>
+    <dimen name="text_large">18sp</dimen>
+    <dimen name="sixteen_sp">16sp</dimen>
+
+
+    <dimen name="button_height">40.00dp</dimen>
+
+
+
+</resources>

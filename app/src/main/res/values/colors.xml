@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#45A7BA</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="drawer_text_color">#282828</color>
+    <color name="drawer_text_color_selected">#414141</color>
+    <color name="drawer_icon_tint">#808080</color>
+    <color name="drawer_icon_tint_selected">#414141</color>
+    <color name="drawer_background">#ffffffff</color>
+    <color name="drawer_separator_text_color">#acacac</color>
+    <color name="drawer_separator_background">#e5e5e5</color>
+    <color name="theme_primary">#AA66CC</color>
+    <!-- Android Style Colors -->
+    <color name="android_blue">#33B5E5</color>
+    <color name="android_blue_dark">#0099CC</color>
+    <color name="android_violet">#AA66CC</color>
+    <color name="android_violet_dark">#9933CC</color>
+    <color name="android_green">#99CC00</color>
+    <color name="android_green_dark">#669900</color>
+    <color name="android_orange">#FFBB33</color>
+    <color name="android_orange_dark">#FF8800</color>
+    <color name="android_red">#FF4444</color>
+    <color name="android_red_dark">#CC0000</color>
+
+    <color name="control_pressed">#acacac</color>
+
+
+    <array name="letter_tile_colors">
+        <item>@color/android_blue</item>
+        <item>@color/android_violet_dark</item>
+        <item>@color/android_red</item>
+        <item>@color/android_green_dark</item>
+        <item>@color/android_blue_dark</item>
+        <item>@color/android_orange</item>
+        <item>@color/android_red_dark</item>
+        <item>@color/android_violet</item>
+        <item>@color/android_green</item>
+        <item>@color/android_orange_dark</item>
+    </array>
+
+    <color name="base_chatter_view_background">#f3f3f3</color>
+    <color name="base_chatter_view_note_background">#dadada</color>
+
+    <color name="translucent_scrim_top">#26000000</color>
+    <color name="translucent_scrim_top_center">#0C000000</color>
+    <color name="translucent_scrim_bottom">#2A000000</color>
+    <color name="translucent_scrim_bottom_center">#0D000000</color>
+
+    <color name="redColor">#ef6868</color>
+    <color name="borderColor">#d1d1d1</color>
+    <color name="dark_gray">#98989c</color>
+
+    <color name="mtrl_textinput_default_box_stroke_color">#d1d1d1</color>
+    <color name="navy_blue">#034578</color>
+    <color name="green">#00a71f</color>
+    <color name="blue">#0367b5</color>
+    <color name="light_blue">#D03B5CC7</color>
+    <color name="sky_blue">#dfecff</color>
+    <color name="background">#ffffff</color>
+    <color name="darkredColor">#EC1313</color>
+    <color name="light_orange">#f5894e</color>
+    <color name="dark_orange">#f5564e</color>
+    <color name="dark_red">#cb4848</color>
+    <color name="yellow">#fa910f</color>
+    <color name="yes_green">#00a71f</color>
+    <color name="no_Red">#c7424b</color>
+    <color name="yellow_notsure">#e1a332</color>
+    <color name="backgroud">#f4f4f4</color>
+    <color name="backgroundcolor">#f4f4f4</color>
+    <color name="image_border_color">#acacac</color>
+    <color name="light_grey">#E3E3E3</color>
+    <color name="color_background_grey">#E8E8E8</color>
+    <color name="light_grey_bg">#F1F2F5</color>
+    <color name="yellow_bg">#FFD26B</color>
+    <color name="skill_bg">#83D7D7</color>
+    <color name="connection_bg">#BDBFF8</color>
+    <color name="pending_bg">#B1E5CF</color>
+    <color name="completed_service_bg">#B3ABD4</color>
+    <color name="bg_color">#354060</color>
+    <color name="bg_color_2">#1F2944</color>
+    <color name="button_color">#19213A</color>
+
+</resources>
